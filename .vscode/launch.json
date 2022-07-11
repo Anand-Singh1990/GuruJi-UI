@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "guru_ji",
+            "cwd": "guru_ji",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "guru_ji (profile mode)",
+            "cwd": "guru_ji",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "guru_ji (release mode)",
+            "cwd": "guru_ji",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
